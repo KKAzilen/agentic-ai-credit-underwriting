@@ -133,8 +133,7 @@ If you’re exploring how **agentic AI** can be applied to real-world financial 
 ### Deep Dive: Agentic AI in Credit Underwriting
 A detailed exploration of how agent-based AI systems are reshaping credit risk assessment, decision orchestration, and explainability in modern FinTech platforms.
 
-👉 Read the full article:  
-[Agentic AI in Credit Underwriting](https://www.azilen.com/blog/agentic-ai-for-credit-underwriting/)
+👉 Read the full article: [Agentic AI in Credit Underwriting](https://www.azilen.com/blog/agentic-ai-for-credit-underwriting/)
 
 ---
 
@@ -147,9 +146,21 @@ Azilen Technologies helps financial institutions and FinTech companies:
 - Enable human-in-the-loop decision-making
 - Build explainable and auditable AI workflows
 
-👉 Explore Azilen’s AI Agent Development Services:  
-[AI Agent Development Services](https://www.azilen.com/ai-agents-development-services/)
+👉 Explore Azilen’s [AI Agent Development Services](https://www.azilen.com/ai-agents-development-services/)
 
 ---
 
+## Disclaimer
 
+This repository is for educational and reference purposes only.
+It is not a production-ready underwriting system and does not claim regulatory or compliance readiness.
+
+---
+
+## About Azilen Technologies
+
+This repository is created as part of Azilen’s exploration of practical, enterprise-grade AI patterns for financial services.
+
+Being an [enterprise AI development company](https://www.azilen.com/), Azilen helps organizations design and build AI-powered, scalable digital systems, including agentic AI solutions for complex business workflows.
+
+---
