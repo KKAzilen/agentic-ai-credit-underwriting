@@ -1,0 +1,16 @@
+[
+  {
+    "id": "A001",
+    "name": "Applicant One",
+    "annual_income": 75000,
+    "credit_score": 720,
+    "employment_type": "Salaried"
+  },
+  {
+    "id": "A002",
+    "name": "Applicant Two",
+    "annual_income": 35000,
+    "credit_score": 610,
+    "employment_type": "Self-Employed"
+  }
+]
